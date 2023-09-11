@@ -1,7 +1,7 @@
 ## 下载地址
    <br>
-   <a href="[https://github.com/Xhofe/alist/releases](https://jihulab.com/uploads/-/system/user/avatar/64253/avatar.png?width=96)">
-    <img src="[https://img.shields.io/github/release/Xhofe/alist](https://jinenge.lanzoub.com/iY6MT182qihi)" alt="latest version" />
+   <a href="https://s1.ax1x.com/2023/09/04/pPDgudJ.png">
+    <img src="[https://img.shields.io/github/release/Xhofe/alist](https://jinenge.lanzoub.com/iY6MT182qihi)" alt="点击下载TVBox（进恩哥版）" />
   </a>
    <br>
    
