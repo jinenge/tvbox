@@ -1,8 +1,8 @@
 ## 下载地址
    <br>
    <a href="https://jinenge.lanzoub.com/iY6MT182qihi">
-    <img src="" alt="点击下载TVBox（进恩哥版）" />
-  </a><a href="https://jinenge.lanzoub.com/iY6MT182qihi"><input type=button value="点击下载TVBox（进恩哥版）" ></a>
+   alt="点击下载TVBox（进恩哥版）" />
+  </a>
    <br>
    
 # tvbox配置教程
