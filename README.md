@@ -1,3 +1,10 @@
+## 下载地址
+   <br>
+   <a href="[https://github.com/Xhofe/alist/releases](https://jihulab.com/uploads/-/system/user/avatar/64253/avatar.png?width=96)">
+    <img src="[https://img.shields.io/github/release/Xhofe/alist](https://jinenge.lanzoub.com/iY6MT182qihi)" alt="latest version" />
+  </a>
+   <br>
+   
 # tvbox配置教程
 
 
