@@ -1,0 +1,327 @@
+{
+  "spider": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259",
+  "wallpaper": "./bizhi.php",
+  
+"lives":
+[{"name": "电视直播", 
+"type": 0,
+"url": "./tvlive/tvlive.txt",
+"playerType": 1
+}], 
+
+"sites":
+[{
+"key": "AList",
+"name": "进恩哥资源仓库",
+"type": 3,
+"api": "csp_AList",
+"searchable": 1,
+"changeable": 0,
+"ext": "./alist/alist.json"},
+
+
+{
+"key":"douban",
+"name":"进恩哥电影推荐",
+"type":3,
+"api":"./js/doubanshuju.js",
+"ext":"./js/douban.js",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 0},
+    
+{
+"key":"Bili",
+"name":"哔哩哔哩",
+"type": 3,
+"api": "csp_Bili",
+"style":
+{"type":"rect",
+"ratio":1.597},
+"searchable":1,
+"quickSearch":0,
+"changeable":0,
+"ext":"./bilibili/bilibili.json"},
+    
+{
+"key": "csp_WoGG",
+"name": "玩偶哥哥(阿里云搜索)",
+"type": 3, "api": "csp_WoGG",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1 },
+
+{
+"key":"DiDuan",
+"name":"低端",
+"type":3,
+"api":"csp_Ddrk",
+"searchable":1,
+"quickSearch":1,
+"changeable":1 },
+
+{
+"key":"Vof",
+"name":"VOF",
+"type":3,
+"api":"csp_Voflix",
+"searchable":1,
+"quickSearch":1,
+"changeable":1 },
+
+{
+"key":"Lib",
+"name": "Libvio",
+"type": 3,
+"api": "csp_Libvio",
+"searchable": 1,
+"quickSearch": 1,
+"changeable":1,
+"ext":"https://www.libvio.fun/"},
+
+{
+"key":"迪迪",
+"name":"迪迪",
+"api":"csp_AppYsV2",
+"type":3,
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"ext":"https://api123.adys.app/xgapp.php/v3/"},
+
+{
+"key": "csp_77",
+"name": "七七",
+"type": 3,
+"api": "csp_Kunyu77",
+"playerType": 1,
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1 },
+
+{
+"key":"drpy_js_花猫TV",
+"name":"花猫TV",
+"type":3,
+"api":"./js/doubanshuju.js",
+"ext":"./js/huamao.js"},
+
+{
+"key":"drpy_js_HDmoli",
+"name":"HDmoli",
+"type":3,
+"api":"./js/doubanshuju.js",
+"ext":"./js/hdmoli.js"},
+
+{"key":"drpy_js_荐片",
+"name":"荐片",
+"type":3,
+"api":"./js/doubanshuju.js",
+"ext":"./js/tuipian.js",
+"playerType":"1"},
+
+{
+"key":"drpy_js_骚火电影",
+"name":"骚火电影",
+"type":3,
+"api":"./js/doubanshuju.js",
+"ext":"./js/saohuo.js"},
+
+{
+"key":"drpy_js_子子影视",
+"name":"子子影视",
+"type":3,
+"api":"./js/doubanshuju.js",
+"ext":"./js/zizi.js" },
+
+{
+"key":"drpy_js_花猪影视[V2]",
+"name":"花猪影视[V2]",
+"type":3,
+"api":"./js/doubanshuju.js",
+"ext":"./js/huazhu.js"},
+
+{
+"key": "csp_YQKAPP",
+"name": "一起看",
+"type": 3,
+"api": "csp_YQKAPP",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://api-aws.11ty.top"},
+
+{
+"key": "drpy_js_网飞.TV",
+"name": "网飞.TV",
+"type": 3,
+"api": "./js/doubanshuju.js",
+"ext": "./js/wangfei.js"},
+
+{
+"key":"drpy_js_宅腐影视",
+"name":"宅腐影视",
+"type":3,
+"api":"./js/doubanshuju.js",
+"ext":"./js/zhaifu.js",
+"searchable": 0,
+"quickSearch": 1,
+"filterable": 1 },
+
+{
+"key":"Zhaozy",
+"name":"找资源(阿里搜索)",
+"type":3, "api":"csp_Zhaozy",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"changeable":0,
+"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111" },
+
+{
+"key": "七夜",
+"name": "七夜(阿里搜索)",
+"type": 3,
+"api": "csp_Dovx",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"changeable": 0,
+"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto" },
+
+{
+"key": "YiSo",
+"name": "一搜(阿里搜索)",
+"type": 3,
+"api": "csp_YiSo",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"changeable": 0,
+"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto" },
+
+{
+"key": "UpYun",
+"name": "云搜(阿里搜索)",
+"type": 3,
+"api": "csp_UpYun",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"changeable": 0,
+"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto" },
+
+{
+"key": "PanSearch",
+"name": "盘搜索(阿里搜索)",
+"type": 3,
+"api": "csp_PanSearch",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"changeable": 0,
+"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto" },
+
+{
+"key": "课堂教育",
+"name": "课堂教育",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "./js/ketang.js" },
+
+{
+"key": "少儿教育",
+"name": "少儿教育",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "./js/shaoer.js" },
+
+{
+"key": "小学课堂",
+"name": "小学课堂",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "./js/xiaoxue.js" },
+
+{
+"key": "初中课堂",
+"name": "初中课堂",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "./js/chuzhong.js" },
+
+{
+"key": "高中教育",
+"name": "高中课堂",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "./js/gaozhong.js"} ],
+
+
+
+
+
+"parses": [ 
+{
+"name": "777",
+"type": 0,
+"url": "https://jx.777jiexi.com/player/?url=" },
+
+{"name":"bozrc",
+"type":0,
+"url":"https://jx.bozrc.com:4433/player/?url=",
+"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
+"header":{"User-Agent":""}} },
+
+{
+"name": "jsonplayer",
+"type": 0,
+"url": "https://jx.jsonplayer.com/player/?url=" },
+
+{
+"name":"zhanlangbu",
+"type":0, "url":"https://jx.zhanlangbu.com/?url=" },
+
+{
+"name":"m3u8",
+"type":0,
+"url":"https://jx.m3u8.pw/?url=" },
+
+{
+"name": "xmflv",
+"type": 0,
+"url": "https://jx.xmflv.com/?url=" },
+
+{
+"name": "yemu",
+"type": 0,
+"url": "https://www.yemu.xyz/?url=" } ],
+
+
+
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","csm3u8","QQ","PPTV","ltnb","rx","CL4K","xfyun","wuduzy",
+"renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
+
+
+"rules":[
+{
+"name":"lz",
+"hosts":["vip.lz","hd.lz"],
+"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}
+]
+}
