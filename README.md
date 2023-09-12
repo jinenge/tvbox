@@ -35,66 +35,38 @@
 ## 文件目录说明
 里面的配置根据容器这里的目录读取而来
 alist目录的alist.json为内置的alist直连，如果您需要增加或者删除请自行修改
-`{
+
+{
   "vodPic": "https://jinenge.cn/alist/logo.png",这里是文件夹图标的链接路径，也可以为容器的目录就是./alist/logo.png目录
-  "drives": [
-    {
-      "name": "小雅",（这里是你要挂载到tvbox的名称）
-      "server": "http://alist.xiaoya.pro",（这里是他人的或者是自己的alist网站地址）
-      "search": false（这里是开启读取网站开启或者关闭选择false或者true）
-    }, 这里以（，）号为下一行还有，如果下一行没有站点了，那就以（}）为结尾
-    {
-      "name": "觸光",
-      "server": "https://pan.ichuguang.com"下面都一样，以此类推
-    },
-    {
-      "name": "进恩哥资源仓库",
-      "server": "https://jinenyy.vip"
-    },
-    {
-      "name": "七米藍",
-      "server": "https://al.chirmyram.com"
-    },
-    {
-      "name": "神族九帝",
-      "server": "https://alist.shenzjd.com"
-    },
-    {
-      "name": "梓澪",
-      "server": "https://zi0.cc"
-    },
-    {
-      "name": "X影院",
-      "server": "https://alist.adone.eu.org"
-    },
-    {
-      "name": "瑾南",
-      "server": "https://jn11.eu.org"
-    },
-    {
-      "name": "alist追番",
-      "server": "https://zhuifan.link"
-    },
-    {
-      "name": "南柯fff网盘",
-      "server": "https://alist.0031.store/"
-    },
-
-    {
-      "name": "ECVE资源小站",
-      "server": "https://pan.ecve.cn/"
-    },
-    {
-      "name": "萤火虫资源站",
-      "server": "https://www.yhcres.top/"
-    }这里没有了，那就是（}）结尾，没有（，）了
-  ]
-}`
+ <br> "drives": 
+  [<br>
+    {<br>
+      "name": "小雅",（这里是你要挂载到tvbox的名称）<br>
+      "server": "http://alist.xiaoya.pro",（这里是他人的或者是自己的alist网站地址）<br>
+      "search": false（这里是开启读取网站开启或者关闭选择false或者true）<br>
+    }, 这里以（，）号为下一行还有，如果下一行没有站点了，那就以（}）为结尾<br>
+   <br> 
+{<br>
+      "name": "觸光",<br>
+      "server": "https://pan.ichuguang.com"下面都一样，以此类推<br>
+    },<br>
+    {<br>
+      "name": "进恩哥资源仓库",<br>
+      "server": "https://jinenyy.vip"<br>
+    }这里没有了，那就是（}）结尾，没有（，）了<br>
+  ]<br>
+}
 
 
 
+
+<br>
 bilibili文件目录对接的位置在哔哩哔哩站点的json配置。
+<br>
 jar文件目录作为所有站点加载的自定义载入jar文件，缺少了这个配置你打开配置里面的站点就是空壳访问。
+<br>
 js目录为每个站点的json搜索引擎数据，比如花猫影视，我设置为huamao.json配置搜索引擎数据。
+<br>
 tvlive目录为电视直播台目录，以txt格式放着每行一个节目。
+<br>
 bizhi目录为壁纸目录，可自己根据原本文件名替换壁纸。
