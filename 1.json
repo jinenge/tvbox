@@ -1,6 +1,6 @@
 {
   "spider": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259",
-  "wallpaper": "./bizhi.php",
+  "wallpaper": "https://jinenge.cn/bizhi.php",
   
 "lives":
 [{"name": "电视直播", 
@@ -11,25 +11,162 @@
 
 "sites":
 [{
-"key": "AList",
-"name": "进恩哥资源仓库",
-"type": 3,
-"api": "csp_AList",
-"searchable": 1,
-"changeable": 0,
-"ext": "./alist/alist.json"},
-
-
-{
 "key":"douban",
-"name":"进恩哥电影推荐",
+"name":"影视推荐",
 "type":3,
 "api":"./js/doubanshuju.js",
 "ext":"./js/douban.js",
 "searchable": 0,
 "quickSearch": 0,
 "filterable": 0},
-    
+      
+{
+"key": "AList",
+"name": "Alist资源仓库",
+"type": 3,
+"api": "csp_AList",
+"searchable": 1,
+"changeable": 0,
+"ext": "./alist/alist.json"},
+
+{
+  "key": "WebDAV",
+  "name": "WebDAV",
+  "type": 3,
+  "api": "csp_WebDAV",
+  "searchable": 1,
+  "changeable": 0,
+  "ext": "./alist/webdav.json"
+},
+
+
+{
+"key":"csp_Cokemv",
+"name":"可乐",
+"type":3,
+"api":"csp_Cokemv",
+"playerType":1,
+"searchable":1,
+"quickSearch":1,
+"filterable":1},
+
+{
+"key":"csp_Yj1211",
+"name":"在线直播",
+"type":3,
+"api":"csp_Yj1211",
+"searchable":1,
+"quickSearch":1,
+"filterable":1},
+
+{
+"key":"csp_Anime1",
+"name":"动漫",
+"type": 3,
+"api": "csp_Anime1",
+"searchable":1,
+"quickSearch":1,
+"filterable":1},
+
+{
+"key":"csp_Dm84",
+"name":"动漫巴士",
+"type":3,
+"api":"csp_Dm84",
+"searchable":1,
+"quickSearch":1,
+"filterable":1},
+
+{
+"key":"csp_xml_小猫咪",
+"name":"小猫咪",
+"type":1,
+"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/",
+"playUrl":"",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
+
+{
+"key":"csp_xml_天堂资源",
+"name":"天堂资源",
+"type":1,
+"api":"http://vipmv.cc/api.php/provide/vod/",
+"playUrl":"",
+"searchable":1,
+"quickSearch":1},
+
+{
+"key":"csp_xml_影图资源",
+"name":"影图",
+"type":1,
+"api":"https://cj.vodimg.top/api.php/provide/vod/",
+"playUrl":"",
+"searchable":1,
+"quickSearch":1},
+
+{
+"key":"csp_app_贵宾影院",
+"name":"贵宾",
+"type":3,
+"api":"csp_AppYsV2",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"https://vipdytv.com/api.php/iptv/vod/"},
+
+{
+"key":"csp_xml_忆梦",
+"name":"忆梦",
+"type":1,
+"api":"http://anltv.cn/api.php/provide/vod/",
+"playUrl":"",
+"searchable":1,
+"quickSearch":1},
+
+{
+"key":"csp_xml_飞速资源",
+"name":"飞速",
+"type":1,
+"api":"http://fszy1.com/api.php/provide/vod/",
+"playUrl":"",
+"searchable":1,
+"quickSearch":1},
+
+
+
+
+{
+"key":"csp_Kuaikan",
+"name":"快看",
+"type":3,
+"api":"csp_Kuaikan",
+"searchable":1,
+"quickSearch":1,
+"filterable":1},
+
+{
+"key":"csp_Zxzj",
+"name":"在线之家",
+"type":3,
+"api":"csp_Zxzj",
+"searchable":1,
+"quickSearch":1,
+"filterable":1},
+
+
+{
+"key":"csp_xpath_kuqimv",
+"name":"酷奇MV",
+"type":3,
+"api":"csp_XPath",
+"searchable":0,
+"quickSearch":0,
+"filterable":0,
+"ext":"./json/kuqi.json"},
+
+
 {
 "key":"Bili",
 "name":"哔哩哔哩",
@@ -41,15 +178,8 @@
 "searchable":1,
 "quickSearch":0,
 "changeable":0,
-"ext":"./bilibili/bilibili.json"},
+"ext":"./bli/bli.json"},
     
-{
-"key": "csp_WoGG",
-"name": "玩偶哥哥(阿里云搜索)",
-"type": 3, "api": "csp_WoGG",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1 },
 
 {
 "key":"DiDuan",
@@ -60,14 +190,7 @@
 "quickSearch":1,
 "changeable":1 },
 
-{
-"key":"Vof",
-"name":"VOF",
-"type":3,
-"api":"csp_Voflix",
-"searchable":1,
-"quickSearch":1,
-"changeable":1 },
+
 
 {
 "key":"Lib",
@@ -79,15 +202,7 @@
 "changeable":1,
 "ext":"https://www.libvio.fun/"},
 
-{
-"key":"迪迪",
-"name":"迪迪",
-"api":"csp_AppYsV2",
-"type":3,
-"searchable":1,
-"quickSearch":1,
-"changeable":1,
-"ext":"https://api123.adys.app/xgapp.php/v3/"},
+
 
 {
 "key": "csp_77",
@@ -113,12 +228,6 @@
 "api":"./js/doubanshuju.js",
 "ext":"./js/hdmoli.js"},
 
-{"key":"drpy_js_荐片",
-"name":"荐片",
-"type":3,
-"api":"./js/doubanshuju.js",
-"ext":"./js/tuipian.js",
-"playerType":"1"},
 
 {
 "key":"drpy_js_骚火电影",
@@ -133,13 +242,6 @@
 "type":3,
 "api":"./js/doubanshuju.js",
 "ext":"./js/zizi.js" },
-
-{
-"key":"drpy_js_花猪影视[V2]",
-"name":"花猪影视[V2]",
-"type":3,
-"api":"./js/doubanshuju.js",
-"ext":"./js/huazhu.js"},
 
 {
 "key": "csp_YQKAPP",
@@ -165,6 +267,14 @@
 "api":"./js/doubanshuju.js",
 "ext":"./js/zhaifu.js",
 "searchable": 0,
+"quickSearch": 1,
+"filterable": 1 },
+
+{
+"key": "csp_WoGG",
+"name": "玩偶哥哥(阿里云搜索)",
+"type": 3, "api": "csp_WoGG",
+"searchable": 1,
 "quickSearch": 1,
 "filterable": 1 },
 
