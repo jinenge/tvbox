@@ -1,0 +1,10 @@
+{
+        "二次截取": "1&&-1+module-item-cover",
+        "数组": "module-item-pic&&module-item-cover",
+        "链接":"href=\"&&\"[替换:vodplay>>voddetail#-1-1>>空]",
+        "副标题": "module-item-text*>&&<",
+        "搜索url": "http://wogg.xyz/index.php/vodsearch/-------------.html?wd={wd}",
+        "分类url": "http://wogg.xyz/index.php/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;阿里",
+        "阿里token": "",
+        "分类": "电影$1#剧集$2#综艺$4#动漫$3#短剧$6#音乐$5"
+}

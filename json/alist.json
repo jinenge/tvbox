@@ -1,0 +1,64 @@
+{
+  "vodPic": "https://jinenge.cn/alist/logo1.png",
+  "drives": [
+    {
+      "name": "小雅",
+      "server": "http://alist.xiaoya.pro",
+      "search": false
+    },
+    {
+      "name": "觸光",
+      "server": "https://pan.ichuguang.com"
+    },
+        {
+    "name": "二次函树",
+    "server": "https://alist.echs.top/"
+    },
+
+    {
+    "name": "进恩哥资源仓库",
+    "server": "https://jinenyy.vip/"
+    },
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com"
+    },
+    {
+      "name": "神族九帝",
+      "server": "https://alist.shenzjd.com"
+    },
+   
+    {
+      "name": "X影院",
+      "server": "https://alist.adone.eu.org"
+    },
+    {
+      "name": "目瞪狗呆",
+      "server": "https://pan.mdgd.cc/"
+    },
+    {
+      "name": "alist追番",
+      "server": "https://zhuifan.link"
+    },
+    {
+      "name": "ECVE资源小站",
+      "server": "https://pan.ecve.cn/"
+    },
+        {
+      "name": "小鸭",
+      "server": "http://shicheng.wang:555/"
+    },
+        {
+      "name": "小猫",
+      "server": "https://nics.eu.org/"
+    },
+        {
+      "name": "小狗",
+      "server": "https://alist.ccome.site/"
+    },
+    {
+      "name": "南柯",
+      "server": "https://alist.523.monster/"
+    }
+  ]
+}
