@@ -29,14 +29,14 @@
 
 
 容器的配置地址：[https://jihulab.com/jinenge/tvbox/-/raw/main/1.json](https://jihulab.com/jinenge/tvbox/-/raw/main/1.json)复制地址或者点击地址复制即可。
-我本地服务器的配置地址：[https://tv.jinenyy.vip/tv.json](https://tv.jinenyy.vip/tv.json)复制地址或者点击地址复制即可。
+我本地github服务器的配置地址：[https://jinenge.cn/1.json](https://jinenge.cn/1.json)复制地址或者点击地址复制即可。
 
 ## 文件目录说明
 里面的配置根据容器这里的目录读取而来
 alist目录的alist.json为内置的alist直连，如果您需要增加或者删除请自行修改
 
 {
-  "vodPic": "https://tv.jinenyy.vip/image/logo.png",这里是文件夹图标的链接路径，也可以为容器的目录就是./image/logo.png目录
+  "vodPic": "https://jinenge.cn/image/logo.png",这里是文件夹图标的链接路径，也可以为容器的目录就是./image/logo.png目录
  <br> "drives": 
   [<br>
     {<br>
