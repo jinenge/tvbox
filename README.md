@@ -1,6 +1,6 @@
 ## 下载地址
    <br>
-   <a href="https://jinenge.lanzoub.com/i241I18g8qdi">
+   <a href="https://jinenge.cn/TVBox.apk">
      点击下载TVBox（进恩哥版） 
   </a>
    <br>
@@ -29,15 +29,14 @@
 
 
 容器的配置地址：[https://jihulab.com/jinenge/tvbox/-/raw/main/1.json](https://jihulab.com/jinenge/tvbox/-/raw/main/1.json)复制地址或者点击地址复制即可。
-我本地服务器的配置地址：[https://jinenge.cn/1.json](https://jinenge.cn/1.json)复制地址或者点击地址复制即可。
-本地的配置地址大概有15个左右，仅需在1.json位置改成2.json即可，以此类推。
+我本地服务器的配置地址：[https://tv.jinenyy.vip/tv.json](https://tv.jinenyy.vip/tv.json)复制地址或者点击地址复制即可。
 
 ## 文件目录说明
 里面的配置根据容器这里的目录读取而来
 alist目录的alist.json为内置的alist直连，如果您需要增加或者删除请自行修改
 
 {
-  "vodPic": "https://jinenge.cn/alist/logo.png",这里是文件夹图标的链接路径，也可以为容器的目录就是./alist/logo.png目录
+  "vodPic": "https://tv.jinenyy.vip/image/logo.png",这里是文件夹图标的链接路径，也可以为容器的目录就是./image/logo.png目录
  <br> "drives": 
   [<br>
     {<br>
@@ -61,11 +60,11 @@ alist目录的alist.json为内置的alist直连，如果您需要增加或者删
 
 
 <br>
-bilibili文件目录对接的位置在哔哩哔哩站点的json配置。
+json文件目录对接的位置在所有站点的json文件目录配置。
 <br>
 jar文件目录作为所有站点加载的自定义载入jar文件，缺少了这个配置你打开配置里面的站点就是空壳访问。
 <br>
-js目录为每个站点的json搜索引擎数据，比如花猫影视，我设置为huamao.json配置搜索引擎数据。
+js目录为每个站点的js搜索引擎数据，比如花猫影视，我设置为huamao.json配置搜索引擎数据。
 <br>
 tvlive目录为电视直播台目录，以txt格式放着每行一个节目。
 <br>
