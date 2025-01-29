@@ -6,7 +6,11 @@
    <br>
    
 # tvbox配置教程
-
+   <br>
+   <a href="https://jinenyy.vip/app/tvbox/%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.html">
+     点击查看配置教程 
+  </a>
+   <br>
 
 
 ## 不管你是（Tvbox）还是（Catbox）还是（影视仓）
