@@ -1,7 +1,7 @@
 ## 下载地址
    <br>
    <a href="https://alist.jinenyy.vip/常用软件/TVBox（家庭看剧必备软件）">
-     点击下载TVBox（进恩哥版） 
+     点击下载TVBox（自带配置版） 
   </a>
    <br>
    
