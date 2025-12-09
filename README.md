@@ -1,6 +1,6 @@
 ## 下载地址
    <br>
-   <a href="https://openlist.jinenyy.vip/常用软件/TVBox（家庭看剧必备软件）">
+   <a href="https://openlist.jinenge.us.kg/常用软件/TVBox（家庭看剧必备软件）">
      点击下载TVBox（自带配置版） 
   </a>
    <br>
@@ -10,7 +10,7 @@ https://gitee.com/jinenyy/tvbox/raw/master/tvbox.json
    
 # tvbox配置教程
    <br>
-   <a href="https://jinenyy.vip/app/tvbox/%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.html">
+   <a href="https://jinenge.us.kg/app/tvbox/%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.html">
      点击查看配置教程 
   </a>
    <br>
@@ -45,7 +45,7 @@ jar文件目录作为所有站点加载的自定义载入jar文件，缺少了�
 tvlive目录为电视直播台目录，以txt格式放着每行一个节目，也可以以m3u后缀作为直播的配置文件，当然里面的直播源也是不定时的实效的，所以大家有什么好的直播地址可以分享给我更新进去默认配置的。
 <br>
    <br>
-   <a href="https://jinenyy.vip">
+   <a href="https://jinenge.us.kg">
      点击这里来我官网查看更多内容
   </a>
    <br>
