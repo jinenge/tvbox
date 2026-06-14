@@ -5,8 +5,8 @@
   </a>
    <br>
 
-# tvbox软件配置地址
-https://gitee.com/jinenyy/tvbox/raw/master/tvbox.json
+# tvbox/影视仓软件配置地址
+https://jinenge.us.kg/app/tvbox/tvbox.json
    
 # tvbox配置教程
    <br>
